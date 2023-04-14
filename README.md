@@ -1,5 +1,7 @@
-# Detecting-Malicious-.NET-Files-Using-CLR-Header-Features-and-Machine-Learning - Canadian AI Conference 2023
+# Detecting Malicious .NET Files Using CLR Header Features and Machine Learning - Canadian AI Conference 2023
+
 Our Submission To The 36th Canadian Conference on Artificial Intelligence (Canadian AI 2023)
+
 
 This repository has all the code and files used in the experiments carried out in the paper *"Detecting Malicious .NET Files Using CLR Header Features and Machine Learning"*[1].
 
